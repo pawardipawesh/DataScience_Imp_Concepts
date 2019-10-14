@@ -1,1 +1,25 @@
-# DataScience_Imp_Concepts
+# Machine Learning Important concepts
+- Feature Reduction Techniques
+  - PCA
+- Feature Scaling [Link](https://en.wikipedia.org/wiki/Feature_scaling)
+  - Min-Max
+  - Mean Normalization
+  - Standardization (Z-score Normalization)
+  - Scaling to unit length
+- Sequential Modelling Algorithms
+  - HMMs
+  - CRFs [Link](https://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+  - RNN 
+  - LSTM
+  - GRU
+- Classical Classification Algorithms
+  - Naive Bayes
+  - SVM
+  - Decision Trees
+  - Bag of classifiers (Bagging)
+    - Random Forests
+  - Boosting Based classifiers
+    - XGBoost (Framework known as Xtreme Gradient Boosting)
+      - Gradient Boosting
+      - Stochastic Gradient Boosting
+      - Regularized Gradient Boosting
