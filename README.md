@@ -70,3 +70,5 @@
 - What is maximum likelihood estimates?
 - What is Expectation-Maximization algorithm (EM Algorithm)? Can it be used for regressiona or classification ? Does it always converge?
 - How SVM work? What are kernels in SVM
+- Decision Tree globally or locally optimal? How to avoid overfitting in decision trees[good blog](https://www.edupristine.com/blog/decision-trees-development-and-scoring)
+- Collinearity
