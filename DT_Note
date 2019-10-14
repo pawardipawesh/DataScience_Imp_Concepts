@@ -1,0 +1,14 @@
+Decision Tree
+  •	Advantages
+      I.	Easy to interpret
+      II.	It’s okay even if you do not normalize
+  •	Disadvantages
+      I.	prone to overfitting if we don't control its depth
+      II.	locally optimal i.e. it greedly chooses attribute to split on thereby sometimes looses optimal splitting point i.e. It may happen that at this point some attribute with less purity at next level might produce more pure tree finally
+      III.	prone to sampling
+•	How to control Depth
+      I.	Stop once node is pure
+      II.	Stop once very few samples are remaining in node
+      III.	Stop once impurity is not reducing much
+      IV.	Stop once cross-validation impurity starts increasing
+      V. Stop once no of nodes in tree are reached to given value
