@@ -13,9 +13,13 @@
   - LSTM
   - GRU
 - Classical Classification Algorithms
+  _ Logistic Regression (Its Regression as it outputs probability of class labels)
   - Naive Bayes
-  - SVM
-  - Decision Trees
+  - SVM (can be used only for classification and it directly predicts class labels on the basis of hyperplanes and support vectors)
+    - Linear Kernel
+    - RBF Kernel
+    - Polynomial Kernel
+  - Decision Trees (Regression as well as classification)
   - Bag of classifiers (Bagging)
     - Random Forests
   - Boosting Based classifiers
@@ -24,3 +28,45 @@
       - Gradient Boosting
       - Stochastic Gradient Boosting
       - Regularized Gradient Boosting
+ - Clustering Techniques
+   - K-Means
+   - K-medoid
+   - DBSCAN
+   - Agglomerative
+   - Divisive
+   - Genetic Algorithms
+- Regularization
+  - L1 Norm
+  - L2 Norm
+# Deep Learning Important Concepts
+- Deep Neural Networks
+- Activation Fuctions
+  - Sigmoid
+  - Tanh
+  - Relu
+  - Leky Relu
+  - softmax
+- Optimization Algorithms
+  - Gradient Descent
+  - Stochastic Gradient Descent
+  - Momentum
+  - RMSProp
+  - Adam
+- Loss functions
+  - binary cross entropy loss
+  - mean square error
+- Regularization
+  - Dropout
+- Sequential learning
+  - Recurrent Neural Networks
+  - Long Short Term Memory Networks (LSTMs)
+  - Gated Recurrent Unit (GRU)
+- Encoder Decoder Architecture
+- Attention Mechanism
+- AutoEncoders
+      
+# Important Questions
+- Why not approach classification through regression [Link](https://stats.stackexchange.com/questions/22381/why-not-approach-classification-through-regression)
+- What is maximum likelihood estimates?
+- What is Expectation-Maximization algorithm (EM Algorithm)? Can it be used for regressiona or classification ? Does it always converge?
+- How SVM work? What are kernels in SVM
