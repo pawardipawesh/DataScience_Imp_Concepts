@@ -20,6 +20,7 @@
     - Random Forests
   - Boosting Based classifiers
     - XGBoost (Framework known as Xtreme Gradient Boosting)
+      - AdaBoost
       - Gradient Boosting
       - Stochastic Gradient Boosting
       - Regularized Gradient Boosting
