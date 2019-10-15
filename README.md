@@ -36,8 +36,12 @@
    - Divisive
    - Genetic Algorithms
 - Regularization
-  - L1 Norm
+  - L1 regularization
   - L2 Norm
+- Similarity measures [Nice blog](https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms)
+  - Euclidian distance(L2 Norm)
+  - Manhattan Distance(L1 Norm)
+  
 # Deep Learning Important Concepts
 - Deep Neural Networks
 - Activation Fuctions
@@ -67,9 +71,13 @@
       
 # Important Questions
 - Why not approach classification through regression [Link](https://stats.stackexchange.com/questions/22381/why-not-approach-classification-through-regression)
+- Linear vs Logistic regression ?
 - What is maximum likelihood estimates?
 - What is Expectation-Maximization algorithm (EM Algorithm)? Can it be used for regressiona or classification ? Does it always converge?
 - How SVM work? What are kernels in SVM
 - Decision Tree globally or locally optimal? How to avoid overfitting in decision trees[good blog](https://www.edupristine.com/blog/decision-trees-development-and-scoring)
 - MultiCollinearity ? Why bad ? How to detect? How to handle? [Link](https://www.edupristine.com/blog/detecting-multicollinearity)
-- L1 vs L2 regularization. What are differences? Which is better ? Can they be termed as feature selection or reduction techniques?
+- L1 vs L2 regularization. What are differences? Which is better ? Can they be termed as feature selection or reduction techniques? [Nice Blog](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261#15c2)
+- Optimizations functions in Deep learning ?
+- When to use which feature scaling ?
+- Similarity measures in Machine learning [Nice blog](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
