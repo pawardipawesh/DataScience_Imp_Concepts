@@ -71,4 +71,5 @@
 - What is Expectation-Maximization algorithm (EM Algorithm)? Can it be used for regressiona or classification ? Does it always converge?
 - How SVM work? What are kernels in SVM
 - Decision Tree globally or locally optimal? How to avoid overfitting in decision trees[good blog](https://www.edupristine.com/blog/decision-trees-development-and-scoring)
-- Collinearity
+- MultiCollinearity ? Why bad ? How to detect? How to handle? [Link](https://www.edupristine.com/blog/detecting-multicollinearity)
+- L1 vs L2 regularization. What are differences? Which is better ? Can they be termed as feature selection or reduction techniques?
