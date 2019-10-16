@@ -1,4 +1,8 @@
 # Machine Learning Important concepts
+- feature Selection techniques
+  - Forward selection
+  - Backward Selection
+  - Bidirectional Selection
 - Feature Reduction Techniques
   - PCA
 - Feature Scaling [Link](https://en.wikipedia.org/wiki/Feature_scaling)
@@ -49,7 +53,7 @@
   - Tanh
   - Relu
   - Leky Relu
-  - softmax
+  - softmax 
 - Optimization Algorithms
   - Gradient Descent
   - Stochastic Gradient Descent
@@ -59,12 +63,20 @@
 - Loss functions
   - binary cross entropy loss
   - mean square error
+  - Categorical cross entropy
 - Regularization
   - Dropout
 - Sequential learning
   - Recurrent Neural Networks
   - Long Short Term Memory Networks (LSTMs)
   - Gated Recurrent Unit (GRU)
+  - Concepts cum Applications
+    - Word2Vec
+      - CBOW
+      - Skipgram
+        - Hierarchial Softmax
+        - Negative Sampling
+    - Glove
 - Encoder Decoder Architecture
 - Attention Mechanism
 - AutoEncoders
@@ -81,3 +93,4 @@
 - Optimizations functions in Deep learning ?
 - When to use which feature scaling ?
 - Similarity measures in Machine learning [Nice blog](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
+- Need of Negative sampling and hierarchial softmax in skip gram based word2vec [Nice Video1](https://www.coursera.org/lecture/nlp-sequence-models/word2vec-8CZiw?authMode=login) [Nice Video2]{https://www.coursera.org/lecture/nlp-sequence-models/negative-sampling-Iwx0e}
