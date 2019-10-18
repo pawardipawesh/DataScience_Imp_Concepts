@@ -78,7 +78,7 @@
         - Negative Sampling
     - Glove
 - Encoder Decoder Architecture
-- Attention Mechanism
+- Attention Mechanism [Nice Blog]{https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3}
 - AutoEncoders
       
 # Important Questions
@@ -95,3 +95,8 @@
 - Similarity measures in Machine learning [Nice blog](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
 - Need of Negative sampling and hierarchial softmax in skip gram based word2vec [Nice Video1](https://www.coursera.org/lecture/nlp-sequence-models/word2vec-8CZiw?authMode=login) [Nice Video2]{https://www.coursera.org/lecture/nlp-sequence-models/negative-sampling-Iwx0e}
 - Why Weight initialization ways are important in DNN? Vanishing Gradients and Exploding gradients ?
+- Why high dimensionality is a curse?
+- what is advantage of higher grams and what is their disadvantage? probability of finding higher grams in test set is less.
+- Are features also sampled in Random Forest ? what makes them better than Decision trees?
+- How to reduce overfitting without regularization(by processing data)
+- startegies to handle imbalanced data
