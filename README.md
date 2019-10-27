@@ -54,7 +54,7 @@
   - Tanh
   - Relu
   - Leky Relu
-  - softmax 
+  - softmax [Nice blog]{https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d}
 - Optimization Algorithms
   - Gradient Descent
   - Stochastic Gradient Descent
