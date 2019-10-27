@@ -45,6 +45,7 @@
 - Similarity measures [Nice blog](https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms)
   - Euclidian distance(L2 Norm)
   - Manhattan Distance(L1 Norm)
+- MultiLable classification[Nice blog]{https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff}
   
 # Deep Learning Important Concepts
 - Deep Neural Networks
@@ -88,7 +89,7 @@
 - What is Expectation-Maximization algorithm (EM Algorithm)? Can it be used for regressiona or classification ? Does it always converge?
 - How SVM work? What are kernels in SVM
 - Decision Tree globally or locally optimal? How to avoid overfitting in decision trees[good blog](https://www.edupristine.com/blog/decision-trees-development-and-scoring)
-- MultiCollinearity ? Why bad ? How to detect? How to handle? [Link](https://www.edupristine.com/blog/detecting-multicollinearity)
+- MultiCollinearity ? Why bad ? How to detect? How to handle? [Link](http://www.sfu.ca/~dsignori/buec333/lecture%2016.pdf)
 - L1 vs L2 regularization. What are differences? Which is better ? Can they be termed as feature selection or reduction techniques? [Nice Blog](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261#15c2)
 - Optimizations functions in Deep learning ?
 - When to use which feature scaling ?
@@ -102,3 +103,4 @@
 - startegies to handle imbalanced data
 - What happens when no. of features are greter than no. of samples?
 - Is random weight assignment better than assigning same weights to the units in the hidden layer?
+- Integer encoding vs one hot encoding vs dumy encoding. When to use which?[Blog]{https://towardsdatascience.com/one-hot-encoding-multicollinearity-and-the-dummy-variable-trap-b5840be3c41a}
