@@ -100,4 +100,5 @@
 - Are features also sampled in Random Forest ? what makes them better than Decision trees?
 - How to reduce overfitting without regularization(by processing data)
 - startegies to handle imbalanced data
-- What happens when no of features are greter than no of samples?
+- What happens when no. of features are greter than no. of samples?
+- Is random weight assignment better than assigning same weights to the units in the hidden layer?
