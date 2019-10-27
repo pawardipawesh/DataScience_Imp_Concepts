@@ -104,3 +104,4 @@
 - What happens when no. of features are greter than no. of samples?
 - Is random weight assignment better than assigning same weights to the units in the hidden layer?
 - Integer encoding vs one hot encoding vs dumy encoding. When to use which?[Blog]{https://towardsdatascience.com/one-hot-encoding-multicollinearity-and-the-dummy-variable-trap-b5840be3c41a}
+- Why we use exponentiation in softmax activation funcion instead can we not just divide logit  by sum of logits?[check why]{https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d}
