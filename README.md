@@ -49,7 +49,7 @@
   
 # Deep Learning Important Concepts
 - Deep Neural Networks
-- Activation Fuctions[Check](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+- Activation Fuctions[Check](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)[comaprison](https://en.wikipedia.org/wiki/Activation_function)
   - Sigmoid
   - Tanh
   - Relu
