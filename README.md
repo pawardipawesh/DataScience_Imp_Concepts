@@ -45,16 +45,16 @@
 - Similarity measures [Nice blog](https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms)
   - Euclidian distance(L2 Norm)
   - Manhattan Distance(L1 Norm)
-- MultiLable classification[Nice blog]{https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff}
+- MultiLable classification[Nice blog](https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff)
   
 # Deep Learning Important Concepts
 - Deep Neural Networks
-- Activation Fuctions[Check]{https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6}
+- Activation Fuctions[Check](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
   - Sigmoid
   - Tanh
   - Relu
   - Leky Relu
-  - softmax [Nice blog]{https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d}
+  - softmax [Nice blog](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
 - Optimization Algorithms
   - Gradient Descent
   - Stochastic Gradient Descent
@@ -79,7 +79,7 @@
         - Negative Sampling
     - Glove
 - Encoder Decoder Architecture
-- Attention Mechanism [Nice Blog]{https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3}
+- Attention Mechanism [Nice Blog](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 - AutoEncoders
       
 # Important Questions
@@ -95,7 +95,7 @@
 - Optimizations functions in Deep learning ?
 - When to use which feature scaling ?
 - Similarity measures in Machine learning [Nice blog](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
-- Need of Negative sampling and hierarchial softmax in skip gram based word2vec [Nice Video1](https://www.coursera.org/lecture/nlp-sequence-models/word2vec-8CZiw?authMode=login) [Nice Video2]{https://www.coursera.org/lecture/nlp-sequence-models/negative-sampling-Iwx0e}
+- Need of Negative sampling and hierarchial softmax in skip gram based word2vec [Nice Video1](https://www.coursera.org/lecture/nlp-sequence-models/word2vec-8CZiw?authMode=login) [Nice Video2](https://www.coursera.org/lecture/nlp-sequence-models/negative-sampling-Iwx0e)
 - Why Weight initialization ways are important in DNN? Vanishing Gradients and Exploding gradients ?
 - Why high dimensionality is a curse?
 - what is advantage of higher grams and what is their disadvantage? probability of finding higher grams in test set is less.
@@ -104,5 +104,5 @@
 - startegies to handle imbalanced data
 - What happens when no. of features are greter than no. of samples?
 - Is random weight assignment better than assigning same weights to the units in the hidden layer?
-- Integer encoding vs one hot encoding vs dumy encoding. When to use which?[Blog]{https://towardsdatascience.com/one-hot-encoding-multicollinearity-and-the-dummy-variable-trap-b5840be3c41a}
-- Why we use exponentiation in softmax activation funcion instead can we not just divide logit  by sum of logits?[check why]{https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d}
+- Integer encoding vs one hot encoding vs dumy encoding. When to use which?[Blog](https://towardsdatascience.com/one-hot-encoding-multicollinearity-and-the-dummy-variable-trap-b5840be3c41a)
+- Why we use exponentiation in softmax activation funcion instead can we not just divide logit  by sum of logits?[check why](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
