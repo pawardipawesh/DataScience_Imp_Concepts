@@ -69,6 +69,7 @@
   - Dropout
 - Sequential learning
   - Recurrent Neural Networks
+    - BPTT, TBPTT [Nice answer](https://stats.stackexchange.com/questions/219914/rnns-when-to-apply-bptt-and-or-update-weights)
   - Long Short Term Memory Networks (LSTMs)
   - Gated Recurrent Unit (GRU)
   - Concepts cum Applications
