@@ -12,7 +12,9 @@
   - Scaling to unit length
 - Sequential Modelling Algorithms
   - HMMs : Generative models - P(X,Y)
-  - CRFs: Discriminative models - P(y/x) [Link](https://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)   - 
+  - CRFs: Discriminative models - P(y/x) : (Sequential Version of Logistic Regression) [Link](https://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+    - Linear chain CRFs : Consider only i-1 lable
+    - General CRFs
   - RNN 
   - LSTM
   - GRU
@@ -50,7 +52,7 @@
 # Deep Learning Important Concepts
 - Deep Neural Networks
 - Activation Fuctions[Derivative Graph](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) , [Comaprison](https://en.wikipedia.org/wiki/Activation_function) , [sigmoid Vs Tanh Vs Relu](https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02)
-  - Sigmoid
+  - Sigmoid/Logit
   - Tanh
   - Relu
   - Leky Relu
