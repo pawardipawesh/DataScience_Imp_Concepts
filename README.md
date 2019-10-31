@@ -17,7 +17,7 @@
   - LSTM
   - GRU
 - Classical Classification Algorithms
-  _ Logistic Regression (Its Regression as it outputs probability of class labels)
+  - Logistic Regression (Its Regression as it outputs probability of class labels)
   - Naive Bayes
   - SVM (can be used only for classification and it directly predicts class labels on the basis of hyperplanes and support vectors)
     - Linear Kernel
@@ -61,10 +61,15 @@
   - Momentum
   - RMSProp
   - Adam
-- Loss functions
-  - binary cross entropy loss
-  - mean square error
-  - Categorical cross entropy
+- Loss functions [Nice Blog](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
+  - Regression
+    - Mean,ordinal,Least Square loss/L1 loss/Quadratic loss (Less robust to outliers)
+    - Mean Absolute loss/L2 Loss (More robut to outliers)
+    - Huber loss/Smooth Mean Absolute Error (Combination of MSE and MAE with a thresold)
+    - Log cosh loss
+  - Classification
+    - binary cross entropy loss
+    - Categorical cross entropy
 - Regularization
   - Dropout
 - Sequential learning
@@ -76,8 +81,7 @@
     - Word2Vec
       - CBOW
       - Skipgram
-        - Hierarchial Softmax
-        - Negative Sampling
+      - Implemented using Hierarchial Softmax, Negative Sampling
     - Glove
 - Encoder Decoder Architecture
 - Attention Mechanism [Nice Blog](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
