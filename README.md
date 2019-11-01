@@ -115,3 +115,6 @@
 - Why we use exponentiation in softmax activation funcion instead can we not just divide logit  by sum of logits?[check why](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
 - Why softmax is computationally complex?
 - Which is easy Regression or Classification? Why?
+
+# Courses
+- [Google guide] https://developers.google.com/machine-learning/guides
