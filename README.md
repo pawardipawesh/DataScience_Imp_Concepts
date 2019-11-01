@@ -69,7 +69,7 @@
     - Mean Absolute loss/L2 Loss (More robut to outliers)
     - Huber loss/Smooth Mean Absolute Error (Combination of MSE and MAE with a thresold)
     - Log cosh loss
-  - Classification
+  - Classification [Blog](https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/)
     - binary cross entropy loss
     - Categorical cross entropy
 - Regularization
@@ -87,7 +87,7 @@
     - Glove
 - Encoder Decoder Architecture
 - Attention Mechanism [Nice Blog](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
-- AutoEncoders
+- AutoEncoders (Feature Reduction, Selection) [Blog](https://towardsdatascience.com/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad)
       
 # Important Questions
 - Why not approach classification through regression [Link](https://stats.stackexchange.com/questions/22381/why-not-approach-classification-through-regression)
