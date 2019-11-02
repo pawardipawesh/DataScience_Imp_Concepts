@@ -48,7 +48,23 @@
   - Euclidian distance(L2 Norm)
   - Manhattan Distance(L1 Norm)
 - MultiLable classification[Nice blog](https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff)
-  
+- Handling Imbalanced Datasets
+  - Undersampling
+    - Random
+    - Informative
+      - Easy Ensemble(learn multiple classifiers such that each of them is exposed to all minority samples but undersampled majority ones)
+      - Balance cascade
+    
+    Disadvantage: Information loss
+  - Oversampling
+    - Random
+    - Informative
+    - Synthetic minority oversampling Technique (SMOTE)
+    
+    Advantage: No Information loss
+    
+    Disadvantage : Overfitting as we replicate
+  - Cost sensitive learning ( More cost for misspredictions of minority class)
 # Deep Learning Important Concepts
 - Deep Neural Networks
 - Activation Fuctions[Derivative Graph](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) , [Comaprison](https://en.wikipedia.org/wiki/Activation_function) , [sigmoid Vs Tanh Vs Relu](https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02)
