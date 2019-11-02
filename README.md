@@ -65,6 +65,11 @@
     
     Disadvantage : Overfitting as we replicate
   - Cost sensitive learning ( More cost for misspredictions of minority class)
+- Evaluation Metrics
+  - Accuracy
+  - Precision, Recall, F-Measure
+  - AUC ROC Curve [Blog](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
+  - AUC PR Curve
 # Deep Learning Important Concepts
 - Deep Neural Networks
 - Activation Fuctions[Derivative Graph](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) , [Comaprison](https://en.wikipedia.org/wiki/Activation_function) , [sigmoid Vs Tanh Vs Relu](https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02)
