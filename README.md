@@ -91,8 +91,11 @@
     - Huber loss/Smooth Mean Absolute Error (Combination of MSE and MAE with a thresold)
     - Log cosh loss
   - Classification [Blog](https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/)
-    - binary cross entropy loss
-    - Categorical cross entropy
+    - Cross Entropy 
+    
+     Distance between two distributions. Entropy is measure of uncertainty in a distribution.
+      - binary cross entropy loss
+      - Categorical cross entropy
 - Regularization
   - Dropout
 - Sequential learning
