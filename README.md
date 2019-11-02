@@ -67,7 +67,7 @@
   - Cost sensitive learning ( More cost for misspredictions of minority class)
 - Evaluation Metrics
   - Accuracy
-  - Precision, Recall, F-Measure
+  - Precision(Specificity), Recall(Sensitivity), F-Measure
   - AUC ROC Curve [Blog](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - AUC PR Curve
 # Deep Learning Important Concepts
