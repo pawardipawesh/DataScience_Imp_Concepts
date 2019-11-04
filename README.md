@@ -129,7 +129,7 @@
 - When to use which feature scaling ?
 - Similarity measures in Machine learning [Nice blog](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
 - Need of Negative sampling and hierarchial softmax in skip gram based word2vec [Nice Video1](https://www.coursera.org/lecture/nlp-sequence-models/word2vec-8CZiw?authMode=login) [Nice Video2](https://www.coursera.org/lecture/nlp-sequence-models/negative-sampling-Iwx0e)
-- Why Weight initialization ways are important in DNN? Vanishing Gradients and Exploding gradients ?
+- Why Weight initialization ways are important in DNN? Vanishing Gradients and Exploding gradients ? [Blog](https://www.dlology.com/blog/how-to-deal-with-vanishingexploding-gradients-in-keras/)
 - Why high dimensionality is a curse?
 - what is advantage of higher grams and what is their disadvantage? probability of finding higher grams in test set is less.
 - Are features also sampled in Random Forest ? what makes them better than Decision trees?
