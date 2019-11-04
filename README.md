@@ -143,7 +143,7 @@
 - Which is easy Regression or Classification? Why?
 - Decision boundry in decision tree?
 - Where we can not apply K-means ?
-- How to approach classification problem where target variable is ordinal?
+- How to approach classification problem where target variable is ordinal? [Blog](https://towardsdatascience.com/simple-trick-to-train-an-ordinal-regression-with-any-classifier-6911183d2a3c)
 - when to choose which optimizer?
 
 # Links To nice resources
