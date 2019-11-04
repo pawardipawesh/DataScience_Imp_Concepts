@@ -101,8 +101,10 @@
 - Sequential learning
   - Recurrent Neural Networks
     - BPTT, TBPTT [Nice answer](https://stats.stackexchange.com/questions/219914/rnns-when-to-apply-bptt-and-or-update-weights)
-  - Long Short Term Memory Networks (LSTMs)
   - Gated Recurrent Unit (GRU)
+  - Long Short Term Memory Networks (LSTMs)
+  
+    GRU and LSTMs helps in capturing long term dependency(vanishing gradient problem) which RNN can not.
   - Concepts cum Applications
     - Word2Vec
       - CBOW
