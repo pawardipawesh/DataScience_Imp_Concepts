@@ -70,6 +70,7 @@
   - Precision(Specificity), Recall(Sensitivity), F-Measure
   - AUC ROC Curve [Blog](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - AUC PR Curve
+  - R2 (regression scoring) [check](https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score)
   - bias vs variance [Blog](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 # Deep Learning Important Concepts
 - Deep Neural Networks
