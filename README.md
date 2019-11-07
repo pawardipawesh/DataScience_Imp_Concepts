@@ -4,7 +4,7 @@
   - Backward Selection
   - Bidirectional Selection
 - Feature Reduction Techniques
-  - PCA
+  - PCA [Nice Blog](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
 - Feature Scaling [what](https://en.wikipedia.org/wiki/Feature_scaling) [Effects of Diffrent Scaling methods on various algos](https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf)
   - Min-Max
   - Mean Normalization
