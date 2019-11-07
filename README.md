@@ -1,11 +1,11 @@
 # Machine Learning Important concepts
-- feature Selection techniques
+- Feature Selection techniques
   - Forward selection
   - Backward Selection
   - Bidirectional Selection
 - Feature Reduction Techniques
   - PCA
-- Feature Scaling [Link](https://en.wikipedia.org/wiki/Feature_scaling)
+- Feature Scaling [what](https://en.wikipedia.org/wiki/Feature_scaling) [Effects of Diffrent Scaling methods on various algos](https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf)
   - Min-Max
   - Mean Normalization
   - Standardization (Z-score Normalization)
