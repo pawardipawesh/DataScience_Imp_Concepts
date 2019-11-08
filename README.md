@@ -15,6 +15,8 @@
   - CRFs: Discriminative models - P(y/x) : (Sequential Version of Logistic Regression) [Link](https://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
     - Linear chain CRFs : Consider only i-1 lable
     - General CRFs
+- [Generative Models vs Discriminative Models](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3)
+- [joint-probability-vs-conditional-probability](https://medium.com/@mlengineer/joint-probability-vs-conditional-probability-fa2d47d95c4a)
   - RNN 
   - LSTM
   - GRU
