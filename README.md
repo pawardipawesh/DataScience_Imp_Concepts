@@ -34,6 +34,7 @@
       - Gradient Boosting
       - Stochastic Gradient Boosting
       - Regularized Gradient Boosting
+  - Bagiing Vs Boosting (https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - Clustering Techniques
    - K-Means
    - K-medoid
