@@ -122,6 +122,7 @@
 - Why not approach classification through regression [Link](https://stats.stackexchange.com/questions/22381/why-not-approach-classification-through-regression)
 - Linear vs Logistic regression ?
 - CRF Vs HMMs?
+- [Underfitting, Overfitting and ways to handle](https://towardsdatascience.com/underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6fe4a8a49dbf)
 - What is maximum likelihood estimates?
 - What is Expectation-Maximization algorithm (EM Algorithm)? Can it be used for regressiona or classification ? Does it always converge?
 - How SVM work? What are kernels in SVM
