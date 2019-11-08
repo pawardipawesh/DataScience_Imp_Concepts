@@ -149,6 +149,10 @@
 - Where we can not apply K-means ?
 - How to approach classification problem where target variable is ordinal? [Blog](https://towardsdatascience.com/simple-trick-to-train-an-ordinal-regression-with-any-classifier-6911183d2a3c)
 - when to choose which optimizer?
+- How we take final decision in Boosting. How we weight classifiers and trainig samples ?
+- ROC and PR curve ?
+- Discriminant models vs Generative models?
+- why L1 normalization reduces some weights to zero why not L2?
 
 # Links To nice resources
 - [Google guide] https://developers.google.com/machine-learning/guides
