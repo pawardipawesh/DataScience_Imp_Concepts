@@ -1,0 +1,7 @@
+1.	Conditional Probability
+	i.	Joint probability
+2.	Expectation
+3.	Standard Deviation
+	i.	Variance
+		a.	Deviation
+4.	Entropy
