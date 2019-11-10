@@ -31,12 +31,17 @@
   - Bag of classifiers (Bagging)
     - Random Forests
   - Boosting Based classifiers
+    - how samples are weighted
+      - weighted sampling
+      - rejection sampling
+    - how decision is made 
+      - weighted avergaing (classifiers are weighted on the basis of their performance)
     - XGBoost (Framework known as Xtreme Gradient Boosting)
       - AdaBoost
       - Gradient Boosting
       - Stochastic Gradient Boosting
       - Regularized Gradient Boosting
-  - Bagiing Vs Boosting (https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
+  - Bagging Vs Boosting (https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - Clustering Techniques
    - K-Means
    - K-medoid
@@ -73,6 +78,7 @@
   - Precision(Specificity), Recall(Sensitivity), F-Measure
   - AUC ROC Curve [Blog](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - AUC PR Curve
+    - [AUC ROC vs AUC PR](http://www.chioka.in/differences-between-roc-auc-and-pr-auc/)
   - R2 (regression scoring) [check](https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score)
   - bias vs variance [Blog](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 # Deep Learning Important Concepts
