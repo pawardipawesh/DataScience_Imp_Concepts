@@ -24,6 +24,7 @@
   - Neural networks
   - Decision Trees
 - [Generative Models vs Discriminative Models](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3)
+- Generative Models performs better when there is noise in data as discriminative model in such cases may get overfitted if say data size is less or regularization is not done or due to some other reason. Discriminative Models almost always prform better in classification tasks.
 - [joint-probability-vs-conditional-probability](https://medium.com/@mlengineer/joint-probability-vs-conditional-probability-fa2d47d95c4a)
   - RNN 
   - LSTM
