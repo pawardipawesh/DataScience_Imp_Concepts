@@ -81,6 +81,13 @@
     - [AUC ROC vs AUC PR](http://www.chioka.in/differences-between-roc-auc-and-pr-auc/)
   - R2 (regression scoring) [check](https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score)
   - bias vs variance [Blog](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+- How to evaluate
+  - cross validation
+    - Hold out cv
+    - k-fold cv
+    - leave one out cv
+    
+    LOOCV model will have high variance meaning results of LOOCV mzy vary alot if you retrain the model wih same hyperparameter on some other data points for same problem. This happens because train set will have hghest overlap as compared to other CV techniques in LOOCV. [captain_ahab answer](https://stats.stackexchange.com/a/244112/129463)
 # Deep Learning Important Concepts
 - Deep Neural Networks
 - Activation Fuctions[Derivative Graph](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) , [Comaprison](https://en.wikipedia.org/wiki/Activation_function) , [sigmoid Vs Tanh Vs Relu](https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02)
