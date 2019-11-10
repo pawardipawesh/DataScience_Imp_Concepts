@@ -22,7 +22,7 @@
   - GRU
 - Classical Classification Algorithms
   - Logistic Regression (Its Regression as it outputs probability of class labels)
-  - Naive Bayes
+  - Naive Bayes [Very Nice Blg](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
   - SVM (can be used only for classification and it directly predicts class labels on the basis of hyperplanes and support vectors)
     - Linear Kernel
     - RBF Kernel
