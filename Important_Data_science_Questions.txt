@@ -1,0 +1,35 @@
+# Important Questions
+- Why not approach classification through regression [Link](https://stats.stackexchange.com/questions/22381/why-not-approach-classification-through-regression)
+- Linear vs Logistic regression ?
+- CRF Vs HMMs?
+- [Underfitting, Overfitting and ways to handle](https://towardsdatascience.com/underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6fe4a8a49dbf)
+- What is maximum likelihood estimates?
+- What is Expectation-Maximization algorithm (EM Algorithm)? Can it be used for regressiona or classification ? Does it always converge?
+- How SVM work? What are kernels in SVM
+- Decision Tree globally or locally optimal? How to avoid overfitting in decision trees[good blog](https://www.edupristine.com/blog/decision-trees-development-and-scoring)
+- MultiCollinearity ? Why bad ? How to detect? How to handle? [Link](http://www.sfu.ca/~dsignori/buec333/lecture%2016.pdf)
+- L1 vs L2 regularization. What are differences? Which is better ? Can they be termed as feature selection or reduction techniques? [Nice Blog](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261#15c2)
+- Optimizations functions in Deep learning ?
+- When to use which feature scaling ?
+- Similarity measures in Machine learning [Nice blog](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
+- Need of Negative sampling and hierarchial softmax in skip gram based word2vec [Nice Video1](https://www.coursera.org/lecture/nlp-sequence-models/word2vec-8CZiw?authMode=login) [Nice Video2](https://www.coursera.org/lecture/nlp-sequence-models/negative-sampling-Iwx0e)
+- Why Weight initialization ways are important in DNN? Vanishing Gradients and Exploding gradients ? [Blog](https://www.dlology.com/blog/how-to-deal-with-vanishingexploding-gradients-in-keras/)
+- Why high dimensionality is a curse? [Blog](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
+- what is advantage of higher grams and what is their disadvantage? probability of finding higher grams in test set is less.
+- Are features also sampled in Random Forest ? what makes them better than Decision trees?
+- How to reduce overfitting without regularization(by processing data)
+- startegies to handle imbalanced data
+- What happens when no. of features are greter than no. of samples?
+- Is random weight assignment better than assigning same weights to the units in the hidden layer?
+- Integer encoding vs one hot encoding vs dumy encoding. When to use which?[Blog](https://towardsdatascience.com/one-hot-encoding-multicollinearity-and-the-dummy-variable-trap-b5840be3c41a)
+- Why we use exponentiation in softmax activation funcion instead can we not just divide logit  by sum of logits?[check why](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
+- Why softmax is computationally complex?
+- Which is easy Regression or Classification? Why?
+- Decision boundry in decision tree?
+- Where we can not apply K-means ?
+- How to approach classification problem where target variable is ordinal? [Blog](https://towardsdatascience.com/simple-trick-to-train-an-ordinal-regression-with-any-classifier-6911183d2a3c)
+- when to choose which optimizer?
+- How we take final decision in Boosting. How we weight classifiers and trainig samples ?
+- ROC and PR curve ?
+- Discriminant models vs Generative models?
+- why L1 normalization reduces some weights to zero why not L2?
