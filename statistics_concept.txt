@@ -12,4 +12,5 @@
 		Uniform Vs Normal (https://qr.ae/TWaG06)
 	iii.	Standard Normal Distribution
 7.	Likelihood Vs probability (https://stats.stackexchange.com/a/2647)
-8. Residuals/Errors(difference between observed and predicted value)
+8. 	Residuals/Errors(difference between observed and predicted value)
+9.	heteroscedacity
