@@ -11,3 +11,4 @@
 	ii.	Normal Distribution
 		Uniform Vs Normal (https://qr.ae/TWaG06)
 	iii.	Standard Normal Distribution
+7.	Likelihood Vs probability (https://stats.stackexchange.com/a/2647)
