@@ -5,3 +5,4 @@
 	i.	Variance
 		a.	Deviation
 4.	Entropy
+5.	Likelihood Vs probability (https://stats.stackexchange.com/a/2647)
