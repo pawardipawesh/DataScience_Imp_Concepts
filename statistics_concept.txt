@@ -5,3 +5,9 @@
 	i.	Variance
 		a.	Deviation
 4.	Entropy
+5.	Liklihood Estimation
+6. 	Probability Distribution
+	i.	Uniform Distribution
+	ii.	Normal Distribution
+		Uniform Vs Normal (https://qr.ae/TWaG06)
+	iii.	Standard Normal Distribution
