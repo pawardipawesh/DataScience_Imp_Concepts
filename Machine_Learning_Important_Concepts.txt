@@ -54,7 +54,7 @@
       - Regularized Gradient Boosting
   - Bagging Vs Boosting (https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - Clustering Techniques
-   - K-Means
+   - K-Means [Nice Blog](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
      - Elbow method
      - Silhouette analysis
    - K-medoid
