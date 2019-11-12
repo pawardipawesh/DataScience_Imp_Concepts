@@ -39,6 +39,11 @@
     - RBF Kernel
     - Polynomial Kernel
   - Decision Trees (Regression as well as classification)
+    - Classification
+      - Gini Index
+      - Entropy
+    - Rgression 
+      - Reduction in Variance
   - Bag of classifiers (Bagging)
     - Random Forests
   - Boosting Based classifiers
