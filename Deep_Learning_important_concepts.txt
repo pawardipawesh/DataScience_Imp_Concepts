@@ -24,8 +24,14 @@
      Distance between two distributions. Entropy is measure of uncertainty in a distribution.
       - binary cross entropy loss
       - Categorical cross entropy
+- Batch Normalization(Normalize hidden layer input)
+  - How : standard Normalization with Learnable parameters
+  - Why : if input distribution changes a lot(coveriate shift), retraining is needed. To avooid this and make netwrk more robust Batch Normalization.
 - Regularization
   - Dropout
+  - Batch Normalization 
+  - Early Stopping
+  - Weight constraint
 - Sequential learning
   - Recurrent Neural Networks
     - BPTT, TBPTT [Nice answer](https://stats.stackexchange.com/questions/219914/rnns-when-to-apply-bptt-and-or-update-weights)
@@ -39,6 +45,13 @@
       - Skipgram
       - Implemented using Hierarchial Softmax, Negative Sampling
     - Glove
+- Vanishing Gradient Problem
+  - why : In sigmoid, Tanh activations, drivative ranges from 0-0.25 and 0-1 with normal distribution, derivative is very small after some -ve and +ve values. Also as we go in earlier layers gradients become even smaller due to multiple multiplications.
+  - how to handle : Relu Activation....TBPTT....Careful Weight initialization
+- Exploading gradient problem
+  - why: gradient accumalate, must be happening mostly with Relu, and explode as they pass towards input layers. causes overflow and hence NANs
+  - How to handle: gradients clipping, careful weight initialization
+  
 - Encoder Decoder Architecture
 - Attention Mechanism [Nice Blog](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 - AutoEncoders (Feature Reduction, Selection) [Blog](https://towardsdatascience.com/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad)
