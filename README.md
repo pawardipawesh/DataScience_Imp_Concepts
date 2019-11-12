@@ -11,8 +11,8 @@
   - Standardization (Z-score Normalization)
   - Scaling to unit length
 - Sequential Modelling Algorithms
-  - HMMs : Generative models - P(X,Y)
-  - CRFs: Discriminative models - P(y/x) : (Sequential Version of Logistic Regression) [Link](https://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+  - HMMs : Generative models - 
+  - CRFs: Discriminative models - : (Sequential Version of Logistic Regression) [Link](https://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
     - Linear chain CRFs : Consider only i-1 lable
     - General CRFs
 - [Generative Models vs Discriminative Models](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3)
