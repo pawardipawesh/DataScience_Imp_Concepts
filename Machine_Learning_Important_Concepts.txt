@@ -55,6 +55,8 @@
   - Bagging Vs Boosting (https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - Clustering Techniques
    - K-Means
+     - Elbow method
+     - Silhouette analysis
    - K-medoid
    - DBSCAN
    - Agglomerative
