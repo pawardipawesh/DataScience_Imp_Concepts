@@ -10,7 +10,8 @@
   - Gradient Descent
   - Stochastic Gradient Descent
   - GD with Momentum
-  - RMSProp
+  - RProp (Does not work well with mini batches)
+  - RMSProp(Divide with explonential weighted avraged gradient and multiple with current gradient)
   - Adam
 - Loss functions [Nice Blog](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
   - Regression
