@@ -19,6 +19,9 @@
   - Naive Bayes
   - HMMs
   - EM Algorithm
+  - LDA 
+    
+    How we reassign a word to new topic t, after initial random assignment of words to K(given no) topics, is P(topic t/document d)*P(word/topic t)
 - Discriminative Models
   - Logostics/Linear Regression
   - Neural networks
