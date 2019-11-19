@@ -70,7 +70,7 @@
         - Elbow method
         - Silhouette analysis
      - Initialization algorithms
-        - KMeans++
+        - KMeans++ [Nice leacture](https://www.coursera.org/lecture/ml-clustering-and-retrieval/smart-initialization-via-k-means-T9ZaG)
    - K-medoid
    - DBSCAN
    - Agglomerative
