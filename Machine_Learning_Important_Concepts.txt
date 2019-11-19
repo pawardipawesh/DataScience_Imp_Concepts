@@ -66,7 +66,7 @@
   - Bagging Vs Boosting (https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - Clustering Techniques
    - K-Means [Nice Blog](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
-     - No Of Clusters
+     - No Of Clusters [Nice lecture](https://www.coursera.org/lecture/ml-clustering-and-retrieval/assessing-the-quality-and-choosing-the-number-of-clusters-JVWne)
         - Elbow method (no of clusters vs hetrogeneity (Sum of within cluster distances))
         - Silhouette analysis
      - Initialization algorithms
