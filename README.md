@@ -170,6 +170,7 @@
 - ROC and PR curve ?
 - Discriminant models vs Generative models?
 - why L1 normalization reduces some weights to zero why not L2?
+- How to detect and handle outliers ? Z-score and Inter quartile range(IQR) [Blog](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
 
 # Links To nice resources
 - [Google guide] https://developers.google.com/machine-learning/guides
