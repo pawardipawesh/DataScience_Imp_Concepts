@@ -100,6 +100,7 @@
     
     Disadvantage : Overfitting as we replicate
   - Cost sensitive learning ( More cost for misspredictions of minority class)
+- Categorical Feature Encoding[Nice Blog](https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02)
 - Evaluation Metrics
   - Accuracy
   - Precision(Specificity), Recall(Sensitivity), F-Measure
