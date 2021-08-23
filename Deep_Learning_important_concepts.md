@@ -15,8 +15,8 @@
   - Adam
 - Loss functions [Nice Blog](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
   - Regression
-    - Mean,ordinal,Least Square loss/L1 loss/Quadratic loss (Less robust to outliers)
-    - Mean Absolute loss/L2 Loss (More robut to outliers)
+    - Mean,ordinal,Least Square loss/L2 loss/Quadratic loss (Less robust to outliers)
+    - Mean Absolute loss/L1 Loss (More robut to outliers)
     - Huber loss/Smooth Mean Absolute Error (Combination of MSE and MAE with a thresold)
     - Log cosh loss
   - Classification [Blog](https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/)
