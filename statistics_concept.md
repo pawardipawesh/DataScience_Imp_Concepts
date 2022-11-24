@@ -18,6 +18,16 @@
 11.	Singular value decomposition
 12.	probability distributions : https://statisticsbyjim.com/basics/probability-distributions/
 13.	Normal Distribution : https://statisticsbyjim.com/basics/normal-distribution/
+		- symmetric around mean
+		- equal number of data points below and above mean
 14.	Empirical Rule : https://statisticsbyjim.com/probability/empirical-rule/
+		- Works only for normal distribution
+		- 68 % of data points are withing 1 std deviation from mean
+		- 95 % of data points are within 2 st deviation from mean
+		- 99.7 % of data points are within 3 std deviation from mean
 15.	Z-score : https://statisticsbyjim.com/basics/z-score/
+	 	- How many std deviation a data point is away from mean in a distribution
 16.	chebyshevs theorem in statistic : https://statisticsbyjim.com/basics/chebyshevs-theorem-in-statistics/
+		- Estimates minimum proportion of data points within K std deviation from mean
+		- Estimates maximum proportion of data points outside K std deviation from mean
+		- Works for any type of distribution
