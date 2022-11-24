@@ -16,3 +16,8 @@
 9.	heteroscedacity
 10.	Covariance Matrix(Z*transpose(Z))
 11.	Singular value decomposition
+12.	probability distributions : https://statisticsbyjim.com/basics/probability-distributions/
+13.	Normal Distribution : https://statisticsbyjim.com/basics/normal-distribution/
+14.	Empirical Rule : https://statisticsbyjim.com/probability/empirical-rule/
+15.	Z-score : https://statisticsbyjim.com/basics/z-score/
+16.	chebyshevs theorem in statistic : https://statisticsbyjim.com/basics/chebyshevs-theorem-in-statistics/
