@@ -38,6 +38,8 @@
 		https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/07%3A_Spectral_Theory/7.01%3A_Eigenvalues_and_Eigenvectors_of_a_Matrix
 	How to use row and column operations and still preserve eigen values : http://www.wright.edu/~chaocheng.huang/lecture/mth255/mth255lect11.pdf
 	Questions: https://pyq.ravindrababuravula.com/subject/?cs=Engineering-Mathematics (search eigen on web page)
+
+19. Nice Math you tube channel : https://www.youtube.com/@Mathispower4u
 	
 	
 
