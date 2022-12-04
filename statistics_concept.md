@@ -32,3 +32,18 @@
 		- Estimates maximum proportion of data points outside K std deviation from mean
 		- Works for any type of distribution
 17. 	Central Limit Theorem : https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(OpenStax)/07%3A_The_Central_Limit_Theorem/7.02%3A_The_Central_Limit_Theorem_for_Sample_Means_(Averages)
+
+18. Eigen Values and vectors : 
+		Properties : https://www.sciencedirect.com/topics/mathematics/trace-of-a-matrix
+		https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/07%3A_Spectral_Theory/7.01%3A_Eigenvalues_and_Eigenvectors_of_a_Matrix
+	How to use row and column operations and still preserve eigen values : http://www.wright.edu/~chaocheng.huang/lecture/mth255/mth255lect11.pdf
+	Questions: https://pyq.ravindrababuravula.com/subject/?cs=Engineering-Mathematics (search eigen on web page)
+	
+	
+
+
+
+
+
+
+
