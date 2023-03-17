@@ -25,6 +25,8 @@
      Distance between two distributions. Entropy is measure of uncertainty in a distribution.
       - binary cross entropy loss
       - Categorical cross entropy
+    - KL Divergence
+      -  [Nice Blog](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained) 
 - Batch Normalization vs Layer Normalization(Normalize hidden layer input)[Nice Blog](https://www.pinecone.io/learn/batch-layer-normalization/#:~:text=Batch%20Normalization%20vs%20Layer%20Normalization&text=Batch%20normalization%20normalizes%20each%20feature,effective%20for%20small%20batch%20sizes.)
   - How : standard Normalization with Learnable parameters
   - Why : if input distribution changes a lot(coveriate shift), retraining is needed. To avooid this and make netwrk more robust Batch Normalization.
