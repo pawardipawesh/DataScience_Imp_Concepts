@@ -31,7 +31,9 @@
 		- Estimates minimum proportion of data points within K std deviation from mean
 		- Estimates maximum proportion of data points outside K std deviation from mean
 		- Works for any type of distribution
-17. 	Central Limit Theorem : https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(OpenStax)/07%3A_The_Central_Limit_Theorem/7.02%3A_The_Central_Limit_Theorem_for_Sample_Means_(Averages)
+17. 	Central Limit Theorem : 
+https://www.scribbr.com/statistics/central-limit-theorem/#:~:text=The%20central%20limit%20theorem%20says,the%20mean%20will%20be%20normal.
+https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(OpenStax)/07%3A_The_Central_Limit_Theorem/7.02%3A_The_Central_Limit_Theorem_for_Sample_Means_(Averages)
 
 18. Eigen Values and vectors : 
 		Properties : https://www.sciencedirect.com/topics/mathematics/trace-of-a-matrix
