@@ -5,8 +5,10 @@
 	i.	Variance
 		a.	Deviation
 4.	Entropy
-5.	Liklihood Estimation
-6. 	Probability Distribution
+5.	Cross Entropy
+6.	Relation between Cross entropy and Entropy.....>, <, = ?
+7.	Liklihood Estimation
+8. 	Probability Distribution
 	i.	Uniform Distribution
 	ii.	Normal Distribution
 		Uniform Vs Normal (https://qr.ae/TWaG06)
@@ -42,6 +44,7 @@ https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introdu
 	Questions: https://pyq.ravindrababuravula.com/subject/?cs=Engineering-Mathematics (search eigen on web page)
 
 19. Nice Math you tube channel : https://www.youtube.com/@Mathispower4u
+20. Indicator Variables(Dummy variables): (web_page)[https://en.wikipedia.org/wiki/Dummy_variable_(statistics)#:~:text=In%20regression%20analysis%2C%20a%20dummy,expected%20to%20shift%20the%20outcome.]
 	
 	
 
