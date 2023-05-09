@@ -112,6 +112,7 @@
     - Log cosh loss
   - Classification [Blog](https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/)
     - Cross Entropy [Nice Blog](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
+    - Why cross entropy is always greater than entropy [link](https://stats.stackexchange.com/questions/370428/why-is-the-cross-entropy-always-more-than-the-entropy)
     
      Distance between two distributions. Entropy is measure of uncertainty in a distribution.
       - binary cross entropy loss
