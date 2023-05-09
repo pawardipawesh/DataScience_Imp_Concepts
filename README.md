@@ -113,6 +113,7 @@
   - Classification [Blog](https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/)
     - Cross Entropy [Nice Blog](https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)
     - Why cross entropy is always greater than entropy [link](https://stats.stackexchange.com/questions/370428/why-is-the-cross-entropy-always-more-than-the-entropy)
+    -  Intutive explanation: We can reduce uncertainty in predicted distribution to make it equivalent to true distribution but we can not further reduce it. i.e. uncertainty in predicted distribution is atleast as much as in true distribution
     
      Distance between two distributions. Entropy is measure of uncertainty in a distribution.
       - binary cross entropy loss
