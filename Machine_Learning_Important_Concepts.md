@@ -108,7 +108,7 @@
   - AUC PR Curve
     - [AUC ROC vs AUC PR](http://www.chioka.in/differences-between-roc-auc-and-pr-auc/)
   - R2 (regression scoring) [check](https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score)
-  - bias vs variance [Blog](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+  - bias vs variance [Blog](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229) [Very Nice Blog](https://towardsdatascience.com/two-important-machine-learning-concepts-to-improve-every-model-62fd058916b)
 - How to evaluate
   - cross validation
     - Hold out cv
