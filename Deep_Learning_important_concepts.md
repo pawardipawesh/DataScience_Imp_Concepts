@@ -57,6 +57,8 @@
   
 - Encoder Decoder Architecture
 - Attention Mechanism [Nice Blog](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
+- BERT
+  - Tokenizer [Blog](https://www.analyticsvidhya.com/blog/2021/09/an-explanatory-guide-to-bert-tokenizer/)
 - AutoEncoders (Feature Reduction, Selection) [Blog](https://towardsdatascience.com/autoencoders-bits-and-bytes-of-deep-learning-eaba376f23ad)
 - Can we train LSTMs without padding or tructating?
   - Yes. However, to do so we will have to have batch size=1. This is because, when batch size>1, forward propagation happens in paralell. With diffent timesteps for samples in same batch we won't be able tp process in paralell. So, we can train LSTMs with varying timesteps samples, However we will have to keep batch size=1. This will hamper training time a lot. Hence, most of the time padding with masking is preferred.
