@@ -64,4 +64,14 @@
   - Yes. However, to do so we will have to have batch size=1. This is because, when batch size>1, forward propagation happens in paralell. With diffent timesteps for samples in same batch we won't be able tp process in paralell. So, we can train LSTMs with varying timesteps samples, However we will have to keep batch size=1. This will hamper training time a lot. Hence, most of the time padding with masking is preferred.
 - Evaluation metrics for ranking system [FAISS](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
   - 1-Recall@1
+    - Recall: Recall is a common evaluation metric in information retrieval and ranking systems. It measures the ability of a system to retrieve relevant items from a given set of items. In this case, it assesses how well the ranking system is at finding the relevant items.
+      @1: The "@1" part of the metric specifies the cutoff point for evaluating recall. It means that you are only considering the performance of the system
+      at the top-ranked item (the first item). In other words, you are interested in whether the ranking system was able to find the most relevant item and
+      place it at the very top of the list.
+      1-recall@1: This term indicates that you are calculating the recall at the top position, i.e., whether the most relevant item is found at the first
+      rank. Subtracting this value from 1 gives you the "1-recall@1," which essentially tells you how often the most relevant item is missed at the top
+      position. So, if the 1-recall@1 value is 0.2, it means that the most relevant item was missed at the top position 20% of the time.
+      In summary, 1-recall@1 is a measure of how often the ranking system fails to place the most relevant item at the very top of the list. It is a critical
+      metric when the highest-ranked item is of utmost importance, such as in cases where users typically only view or interact with the top result, like in
+      web search engines.
   - 10-intersection
