@@ -75,3 +75,4 @@
       metric when the highest-ranked item is of utmost importance, such as in cases where users typically only view or interact with the top result, like in
       web search engines.
   - 10-intersection
+- FAISS : [Blog](https://www.pinecone.io/learn/series/faiss/faiss-tutorial/)
