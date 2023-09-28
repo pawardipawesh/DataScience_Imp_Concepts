@@ -29,6 +29,12 @@
 - Batch Normalization vs Layer Normalization(Normalize hidden layer input)[Nice Blog](https://www.pinecone.io/learn/batch-layer-normalization/#:~:text=Batch%20Normalization%20vs%20Layer%20Normalization&text=Batch%20normalization%20normalizes%20each%20feature,effective%20for%20small%20batch%20sizes.)
   - How : standard Normalization with Learnable parameters
   - Why : if input distribution changes a lot(coveriate shift), retraining is needed. To avooid this and make netwrk more robust Batch Normalization.
+  - Whats the difference between input normalization vs batch normalization.
+  - Is batch normalization applied mean and standard deviation across features or independently for each feature
+  - Which mean and standard dev are used while scroing for normalization
+  - Whats the difference between batch and layer norm ?
+  - What are learnable parameters used in batch norm ? How they are set for first batch ?
+  - Where does batch norm is used and where layer norm is used ?
 - Regularization
   - Dropout
   - Batch Normalization 
