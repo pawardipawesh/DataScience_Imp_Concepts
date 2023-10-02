@@ -173,6 +173,9 @@
 - Discriminant models vs Generative models?
 - why L1 normalization reduces some weights to zero why not L2?
 - How to detect and handle outliers ? Z-score and Inter quartile range(IQR) [Blog](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
+- Why we divide by + v in add-1 smoothening in n-gram language models ?
+  - When we add 1 to numerator, we mean class is occuring with that word atleast once. Then we assume there are at max V such unknown words for which we need to add one. Hence now in dataset
+  - there will be V such words occuring with  that class. Hence divide by + V
 
 # Links To nice resources
 - [Google guide] https://developers.google.com/machine-learning/guides
