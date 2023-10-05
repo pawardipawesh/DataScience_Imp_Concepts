@@ -92,6 +92,7 @@
     LOOCV model will have high variance meaning results of LOOCV mzy vary alot if you retrain the model wih same hyperparameter on some other data points for same problem. This happens because train set will have hghest overlap as compared to other CV techniques in LOOCV. [captain_ahab answer](https://stats.stackexchange.com/a/244112/129463)
 - Calibration
   - [Blog](https://medium.com/analytics-vidhya/calibration-in-machine-learning-e7972ac93555)
+  - The key goal of calibration is to ensure that when the model predicts a 5% probability of cancer, roughly 5% of the samples with such predictions should indeed have cancer in reality. Calibration methods help achieve this alignment between predicted probabilities and actual outcomes, making the model's predictions more reliable for decision-making.
 # Deep Learning Important Concepts
 - Deep Neural Networks
 - Activation Fuctions[Derivative Graph](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6) , [Comaprison](https://en.wikipedia.org/wiki/Activation_function) , [sigmoid Vs Tanh Vs Relu](https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02)
