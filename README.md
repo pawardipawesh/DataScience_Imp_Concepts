@@ -54,6 +54,7 @@
 - Regularization
   - L1 regularization
   - L2 Norm
+  - Can we use L1 and L2 together ? (Elastic net)
 - Similarity measures [Nice blog](https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms)
   - Euclidian distance(L2 Norm)
   - Manhattan Distance(L1 Norm)
