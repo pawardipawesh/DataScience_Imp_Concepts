@@ -58,7 +58,7 @@
       - rejection sampling
     - how decision is made 
       - weighted avergaing (classifiers are weighted on the basis of their performance)
-    - XGBoost (Framework known as Xtreme Gradient Boosting)
+    - XGBoost (Framework known as Xtreme Gradient Boosting) [Blog](https://medium.com/analytics-vidhya/what-makes-xgboost-so-extreme-e1544a4433bb)
       - AdaBoost
       - Gradient Boosting
       - Stochastic Gradient Boosting
