@@ -104,6 +104,8 @@
 - Evaluation Metrics
   - Accuracy
   - Precision(Specificity), Recall(Sensitivity), F-Measure
+  - multi-class classification
+    - macro(class level, balanced class distribution), micro(instance level, class imbalance), weighted precision, recall and F-measure
   - AUC ROC Curve [Blog](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
   - AUC PR Curve
     - [AUC ROC vs AUC PR](http://www.chioka.in/differences-between-roc-auc-and-pr-auc/)
