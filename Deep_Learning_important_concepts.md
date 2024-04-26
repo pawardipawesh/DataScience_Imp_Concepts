@@ -83,3 +83,4 @@
   - Precision@K
   - Recall@K
 - FAISS : [Blog](https://www.pinecone.io/learn/series/faiss/faiss-tutorial/)
+- Contrastive Learning : [Blog](https://www.baeldung.com/cs/contrastive-learning)
