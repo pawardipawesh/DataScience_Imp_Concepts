@@ -1,1 +1,2 @@
-- [FairSeq_tutorial](https://mklimasz.github.io/blog/2023/fariseq-101-train-a-model/)
+- [FairSeq_brief_tutorial](https://mklimasz.github.io/blog/2023/fariseq-101-train-a-model/)
+- [Original_documentation](https://fairseq.readthedocs.io/en/latest/getting_started.html)
